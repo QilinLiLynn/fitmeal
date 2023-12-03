@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitmeal/static/css/main.f855e6bc.css",
+    "main.js": "/fitmeal/static/js/main.fa07b783.js",
+    "static/js/787.4d71325c.chunk.js": "/fitmeal/static/js/787.4d71325c.chunk.js",
+    "index.html": "/fitmeal/index.html",
+    "main.f855e6bc.css.map": "/fitmeal/static/css/main.f855e6bc.css.map",
+    "main.fa07b783.js.map": "/fitmeal/static/js/main.fa07b783.js.map",
+    "787.4d71325c.chunk.js.map": "/fitmeal/static/js/787.4d71325c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fa07b783.js"
+  ]
+}
